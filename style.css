@@ -1,6 +1,6 @@
 head, body{
     font-family: 'Poppins', sans-serif;
-    background: rgb(216, 216, 216);
+    background: rgb(236, 236, 236);
     padding: 50px 50px;
     
 }
@@ -64,6 +64,7 @@ button{
     margin: auto;
     border-radius: 12px;
     box-shadow: 6px 6px 10px rgb(185, 185, 185);
+    background: white;
 }
 
 .card img{
