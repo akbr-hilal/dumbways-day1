@@ -22,18 +22,20 @@ h1{
 
 .content p{
     text-align: justify;
+    font-weight: 500;
 }
 
 button{
     font-family: sans-serif;
-    font-size: 15px;
+    font-weight: 500;
+    font-size: 16px;
     background: black;
     color: white;
     border: white 3px solid;
     border-radius: 32px;
     padding: 8px 32px;
     margin-top: 24px;
-    margin-bottom: 32px;
+    margin-bottom: 8px;
 }
 
 .button-cv a{
@@ -78,4 +80,6 @@ button{
 
 .card p{
     padding-bottom: 24px;
+    font-weight: 400;
+    color: gray;
 }
