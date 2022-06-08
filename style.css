@@ -42,10 +42,10 @@ button{
 .button-cv a{
     color: black;
     text-decoration: none;
+    display: flex;
 }
 
 .button-cv img{
-    float:right;  
     margin-left: 12px;  
 }
 
